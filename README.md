@@ -1,4 +1,4 @@
-# Hi there, I'm Puguh Dwiyanto [Puguh-Dy](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Puguh Dwiyanto👋
 ## About me:
 - 🔭 I’m currently working as Network Engineer
 - 🌱 I’m currently learning Python and Javascript
