@@ -1,26 +1,51 @@
-# Hi there, I'm Puguh Dwiyanto👋
-## About me:
-- 🔭 I’m currently working as Network Engineer
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
-- 💬 Ask me about anything
-- 📫 How to reach me: puguh130@gmail.com
+# Hai, Saya dengan Puguh Dwiyanto
+## Tentang Saya:
+- Tempat, tanggal Lahir : Banyumas, 12 Agustus 1997
+- Jenis Kelamin : Laki-laki
+- Agama : Islam
+- Phone : 082242890134
+- Email : puguh130@gmail.com
 
-## Education:
+## Pendidikan:
 
-#### 1. [Universitas Amikom Yogyakarta](https://home.amikom.ac.id/) | Bachelor of Information Engineering | Yogyakarta `2015-2019`
-   - participant in the association of informatics engineering majors
+#### 1. [SD N Gumelar Lor](https://referensi.data.kemdikbud.go.id/residu/satuanpendidikan/detail/20302076) | Gumelar Lor `2003-2009`
+#### 2. [SMP N 1 Sumpiuh](https://sekolahloka.com/data/smp-negeri-1-sumpiuh/) | Sumpiuh `2009-2012`
+ #### 3. [SMA N 1 Sumpiuh](https://www.sman1sumpiuh.sch.id) | IPA | Sumpiuh `2012-2015`
+ #### 4. [Universitas Amikom Yogyakarta](https://home.amikom.ac.id) | S1 Informatika | Yogyakarta `2015-2019`
 
- #### 2. [SMA N 1 Sumpiuh](https://www.sman1sumpiuh.sch.id) | IPA | Sumpiuh `2012-2015`
-   - Head of the Rohis Documentation Section
+--- 
 
-## Work Experience:
-#### 1. [PT. Cyberindo Aditama](https://cbn.id/) | Service Delivery | Jakarta Selatan `Sep'2019 - Now`
-   - Serve the needs of customers in basic and further technical engineering, like a troubleshooting network/customers email, handle the administration Basic Questions, request for information or a communication service via e-mail, phone or chat whatsapp
-   - Provide solutions and suggestions are useful for customers
-   - Installation internet in customer
+## Kursus dan Workshop
+
+#### - [CCNA Routing and Switching : Introduction to Networks](https://home.amikom.ac.id/) | AMIKOM Yogyakarta | `2017`
+#### - [CCNA Routing and Switching : Routing and Switching Essentials](https://home.amikom.ac.id/) | AMIKOM Yogyakarta | `2017`
+#### - [MTCNA (Mikrotik Certified Network Associate)](https://home.amikom.ac.id/) | AMIKOM Yogyakarta| `2018`
+#### - [CCNA Security] | Digital talent KOMINFO | `2019`
+#### - [CCNA Cybersecurity Operations] | Digital talent KOMINFO | `2019`
+#### - [MTCRE (MikroTik Certified Routing Engineer)](https://mikrotik.com/training/certificates/c237664c4f0563a36ce7) | IDN Network | `2022`
+#### - [Webinar Ethical Network Hacking & Security](https://xcode.or.id/) | XCODE | `2024`
+
 ---
+
+## Pengalaman Kerja:
+#### - [PT. Cyberindo Aditama](https://cbn.id/) | Service Delivery | Jakarta Selatan `Sep'2019 - Now`
+
+## Pengalaman Organisasi 
+### - ROHIS (Rohani Islam) sebagai ketua divisi dekorasi dan dokumentasi di SMA Negeri 1 Sumpiuh
+### - HMJTI (Himpunan Mahasiswa Jurusan Teknik Informatika) di Amikom Yogyakarta
+---
+
+### Kemampuan dan Ketrampilan
+ - Dapat menggunakan Microsoft Office dengan baik
+ - Memahami Networking (WAN, LAN, OSI Layer, Switch, Router, Firewall, WLAN)
+ - Memahami Basic Linux Pentesting 
+ - Dapat mengkonfigurasi server nagios
+ - Memahami Basic Pemrograman
+ - Mampu mempelajari hal baru dengan cepat
+ - Menyukai Oprek Motor
+ - Menyukai Belajar linux dengan otodidak
+ - Dapat beradaptasi dengan baik 
+ - Menyukai Olahraga
 
 ### Languages and Tools:
 
@@ -37,18 +62,12 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/puguh-dy-402aa1119/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/puguh-dy-402aa1119/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
-
+[![website](./img/instagram-light.svg)](https://www.instagram.com/mr_pdy#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/mr_pdy#gh-dark-mode-only)
 
 
 [webdev]: https://github.com/PuguhDy/Puguh-Dy
