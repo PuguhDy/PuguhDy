@@ -1,10 +1,10 @@
 # Hai, Saya dengan Puguh Dwiyanto
 ## Tentang Saya:
 - Tempat, tanggal Lahir : Banyumas, 12 Agustus 1997
-- Jenis Kelamin : Laki-laki
-- Agama : Islam
-- Phone : 082242890134
-- Email : puguh130@gmail.com
+- Jenis Kelamin         : Laki-laki
+- Agama                 : Islam
+- Phone                 : 082242890134
+- Email                 : puguh130@gmail.com
 
 ## Pendidikan:
 
@@ -12,7 +12,7 @@
 #### 2. [SMP N 1 Sumpiuh](https://sekolahloka.com/data/smp-negeri-1-sumpiuh/) | Sumpiuh `2009-2012`
  #### 3. [SMA N 1 Sumpiuh](https://www.sman1sumpiuh.sch.id) | IPA | Sumpiuh `2012-2015`
  #### 4. [Universitas Amikom Yogyakarta](https://home.amikom.ac.id) | S1 Informatika | Yogyakarta `2015-2019`
-
+ 
 --- 
 
 ## Kursus dan Workshop
