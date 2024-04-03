@@ -17,13 +17,13 @@
 
 ## Kursus dan Workshop
 
-#### - [CCNA Routing and Switching : Introduction to Networks](https://home.amikom.ac.id/) | AMIKOM Yogyakarta | `2017`
-#### - [CCNA Routing and Switching : Routing and Switching Essentials](https://home.amikom.ac.id/) | AMIKOM Yogyakarta | `2017`
-#### - [MTCNA (Mikrotik Certified Network Associate)](https://home.amikom.ac.id/) | AMIKOM Yogyakarta| `2018`
-#### - [CCNA Security] | Digital talent KOMINFO | `2019`
-#### - [CCNA Cybersecurity Operations] | Digital talent KOMINFO | `2019`
-#### - [MTCRE (MikroTik Certified Routing Engineer)](https://mikrotik.com/training/certificates/c237664c4f0563a36ce7) | IDN Network | `2022`
-#### - [Webinar Ethical Network Hacking & Security](https://xcode.or.id/) | XCODE | `2024`
+- [CCNA Routing and Switching : Introduction to Networks](https://home.amikom.ac.id/) | AMIKOM Yogyakarta | `2017`
+- [CCNA Routing and Switching : Routing and Switching Essentials](https://home.amikom.ac.id/) | AMIKOM Yogyakarta | `2017`
+- [MTCNA (Mikrotik Certified Network Associate)](https://home.amikom.ac.id/) | AMIKOM Yogyakarta| `2018`
+- [CCNA Security] | Digital talent KOMINFO | `2019`
+- [CCNA Cybersecurity Operations] | Digital talent KOMINFO | `2019`
+- [MTCRE (MikroTik Certified Routing Engineer)](https://mikrotik.com/training/certificates/c237664c4f0563a36ce7) | IDN Network | `2022`
+- [Webinar Ethical Network Hacking & Security](https://xcode.or.id/) | XCODE | `2024`
 
 ---
 
@@ -31,8 +31,8 @@
 #### - [PT. Cyberindo Aditama](https://cbn.id/) | Service Delivery | Jakarta Selatan `Sep'2019 - Now`
 
 ## Pengalaman Organisasi 
-### - ROHIS (Rohani Islam) sebagai ketua divisi dekorasi dan dokumentasi di SMA Negeri 1 Sumpiuh
-### - HMJTI (Himpunan Mahasiswa Jurusan Teknik Informatika) di Amikom Yogyakarta
+- ROHIS (Rohani Islam) sebagai ketua divisi dekorasi dan dokumentasi di SMA Negeri 1 Sumpiuh
+- HMJTI (Himpunan Mahasiswa Jurusan Teknik Informatika) di Amikom Yogyakarta
 ---
 
 ### Kemampuan dan Ketrampilan
