@@ -24,6 +24,7 @@
 - [CCNA Cybersecurity Operations] | Digital talent KOMINFO | `2019`
 - [MTCRE (MikroTik Certified Routing Engineer)](https://mikrotik.com/training/certificates/c237664c4f0563a36ce7) | IDN Network | `2022`
 - [Webinar Ethical Network Hacking & Security](https://xcode.or.id/) | XCODE | `2024`
+- [Webinar Ethical Windows Hacking & Post Exploitation](https://xcode.or.id/blog/index.php/2024/03/30/webinar-x-code-ethical-windows-hacking-exploitation-jumat-5-april-2024-pukul-1400-wib-zoom/) | XCODE | `5 April 2024` 
 
 ---
 
