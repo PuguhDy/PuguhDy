@@ -23,9 +23,11 @@
 - [CCNA Security] | Digital talent KOMINFO | `2019`
 - [CCNA Cybersecurity Operations] | Digital talent KOMINFO | `2019`
 - [MTCRE (MikroTik Certified Routing Engineer)](https://mikrotik.com/training/certificates/c237664c4f0563a36ce7) | IDN Network | `2022`
-- [Webinar Ethical Network Hacking & Security](https://xcode.or.id/) | XCODE | `2024`
-- [Webinar Ethical Windows Hacking & Post Exploitation](https://xcode.or.id/blog/index.php/2024/03/30/webinar-x-code-ethical-windows-hacking-exploitation-jumat-5-april-2024-pukul-1400-wib-zoom/) | XCODE | `5 April 2024` 
-
+- [Webinar Ethical Network Hacking & Security]([https://xcode.or.id/](https://xcode.or.id/blog/index.php/2024/01/29/webinar-x-code-web-server-security-hardening-v2-hari-sabtu-3-februari-2024-pukul-0900-wib-pagi/)) | XCODE | `10 Februari 2024`
+- [Webinar Reverse proxy dan Proxmox untuk membangun layanan VPS](https://xcode.or.id/blog/index.php/2024/02/09/webinar-x-code-reverse-proxy-dan-proxmox-untuk-membangun-layanan-vps-minggu-18-februari-2024-pukul-1300-wib/) | XCODE | `18 Februari 2024`
+- [Webinar Ethical Windows Hacking & Post Exploitation](https://xcode.or.id/blog/index.php/2024/03/30/webinar-x-code-ethical-windows-hacking-exploitation-jumat-5-april-2024-pukul-1400-wib-zoom/) | XCODE | `5 April 2024`
+- [Webinar Web Server & Security Hardening v2](https://xcode.or.id/blog/index.php/2024/01/29/webinar-x-code-web-server-security-hardening-v2-hari-sabtu-3-februari-2024-pukul-0900-wib-pagi/) | XCODE | `3 Februari 2024`
+- 
 ---
 
 ## Pengalaman Kerja:
