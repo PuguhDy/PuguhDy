@@ -20,8 +20,8 @@
 - [CCNA Routing and Switching : Introduction to Networks](https://home.amikom.ac.id/) | AMIKOM Yogyakarta | `2017`
 - [CCNA Routing and Switching : Routing and Switching Essentials](https://home.amikom.ac.id/) | AMIKOM Yogyakarta | `2017`
 - [MTCNA (Mikrotik Certified Network Associate)](https://home.amikom.ac.id/) | AMIKOM Yogyakarta| `2018`
-- [CCNA Security] | Digital talent KOMINFO | `2019`
-- [CCNA Cybersecurity Operations] | Digital talent KOMINFO | `2019`
+- [CCNA Security](https://lldikti5.kemdikbud.go.id/home/detailpost/program-digital-talent-scholarship-2019) | Digital talent KOMINFO | `2019`
+- [CCNA Cybersecurity Operations](https://lldikti5.kemdikbud.go.id/home/detailpost/program-digital-talent-scholarship-2019) | Digital talent KOMINFO | `2019`
 - [MTCRE (MikroTik Certified Routing Engineer)](https://mikrotik.com/training/certificates/c237664c4f0563a36ce7) | IDN Network | `2022`
 - [Webinar Ethical Network Hacking & Security](https://xcode.or.id/blog/index.php/2024/01/29/webinar-x-code-web-server-security-hardening-v2-hari-sabtu-3-februari-2024-pukul-0900-wib-pagi) | XCODE | `10 Februari 2024`
 - [Webinar Reverse proxy dan Proxmox untuk membangun layanan VPS](https://xcode.or.id/blog/index.php/2024/02/03/webinar-x-code-ethical-network-hacking-security-senin-10-februari-2024-pukul-0900-wib-pagi-zoom/) | XCODE | `18 Februari 2024`
