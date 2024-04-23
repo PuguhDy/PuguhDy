@@ -12,11 +12,8 @@
  2. [SMP N 1 Sumpiuh](https://sekolahloka.com/data/smp-negeri-1-sumpiuh/) | Sumpiuh `2009-2012`
  3. [SMA N 1 Sumpiuh](https://www.sman1sumpiuh.sch.id) | IPA | Sumpiuh `2012-2015`
  4. [Universitas Amikom Yogyakarta](https://home.amikom.ac.id) | S1 Informatika | Yogyakarta `2015-2019`
- 
---- 
 
 ## Kursus dan Workshop
-
 - [CCNA Routing and Switching : Introduction to Networks](https://home.amikom.ac.id/) | AMIKOM Yogyakarta | `2017`
 - [CCNA Routing and Switching : Routing and Switching Essentials](https://home.amikom.ac.id/) | AMIKOM Yogyakarta | `2017`
 - [MTCNA (Mikrotik Certified Network Associate)](https://home.amikom.ac.id/) | AMIKOM Yogyakarta| `2018`
@@ -28,16 +25,12 @@
 - [Webinar Ethical Windows Hacking & Post Exploitation](https://xcode.or.id/blog/index.php/2024/03/30/webinar-x-code-ethical-windows-hacking-exploitation-jumat-5-april-2024-pukul-1400-wib-zoom/) | XCODE | `5 April 2024`
 - [Webinar Web Server & Security Hardening v2](https://xcode.or.id/blog/index.php/2024/01/29/webinar-x-code-web-server-security-hardening-v2-hari-sabtu-3-februari-2024-pukul-0900-wib-pagi/) | XCODE | `3 Februari 2024`
 
----
-
 ## Pengalaman Kerja:
 #### - [PT. Cyberindo Aditama](https://cbn.id/) | Service Delivery | Jakarta Selatan `Sep'2019 - Now`
-
 ## Pengalaman Organisasi 
 - ROHIS (Rohani Islam) sebagai ketua divisi dekorasi dan dokumentasi di SMA Negeri 1 Sumpiuh
 - HMJTI (Himpunan Mahasiswa Jurusan Teknik Informatika) di Amikom Yogyakarta
----
-
+--
 ### Kemampuan dan Ketrampilan
  - Dapat menggunakan Microsoft Office dengan baik
  - Memahami Networking (WAN, LAN, OSI Layer, Switch, Router, Firewall, WLAN)
