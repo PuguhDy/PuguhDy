@@ -8,10 +8,10 @@
 
 ## Pendidikan:
 
-#### 1. [SD N Gumelar Lor](https://referensi.data.kemdikbud.go.id/residu/satuanpendidikan/detail/20302076) | Gumelar Lor `2003-2009`
-#### 2. [SMP N 1 Sumpiuh](https://sekolahloka.com/data/smp-negeri-1-sumpiuh/) | Sumpiuh `2009-2012`
- #### 3. [SMA N 1 Sumpiuh](https://www.sman1sumpiuh.sch.id) | IPA | Sumpiuh `2012-2015`
- #### 4. [Universitas Amikom Yogyakarta](https://home.amikom.ac.id) | S1 Informatika | Yogyakarta `2015-2019`
+ 1. [SD N Gumelar Lor](https://referensi.data.kemdikbud.go.id/residu/satuanpendidikan/detail/20302076) | Gumelar Lor `2003-2009`
+ 2. [SMP N 1 Sumpiuh](https://sekolahloka.com/data/smp-negeri-1-sumpiuh/) | Sumpiuh `2009-2012`
+ 3. [SMA N 1 Sumpiuh](https://www.sman1sumpiuh.sch.id) | IPA | Sumpiuh `2012-2015`
+ 4. [Universitas Amikom Yogyakarta](https://home.amikom.ac.id) | S1 Informatika | Yogyakarta `2015-2019`
  
 --- 
 
@@ -54,7 +54,6 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Photosop" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/photoshop/photoshop-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://download.logo.wine/logo/Microsoft_Office/Microsoft_Office-Logo.wine.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Debian" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/debian/debian-plain-wordmark.svg" style="padding-right:0px;" />][webdev]
