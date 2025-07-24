@@ -1,9 +1,7 @@
 # Hai, Saya dengan Puguh Dwiyanto
 ## Tentang Saya:
-- Tempat, tanggal Lahir : Banyumas, 12 Agustus 1997
 - Jenis Kelamin         : Laki-laki
 - Agama                 : Islam
-- Phone                 : 082242890134
 - Email                 : puguh130@gmail.com
 
 ## Pendidikan:
