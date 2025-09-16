@@ -51,6 +51,7 @@
 
 <br />
 <br />
+![snake animation](https://github.com/<seu PuguhDy>/<seu PuguhDy>/blob/output/github-contribution-grid-snake2.svg)
 
 ### Connect with me:
 &nbsp;&nbsp;
@@ -61,4 +62,3 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/mr_pdy#gh-dark-mode-only)
 
 [webdev]: https://github.com/PuguhDy/Puguh-Dy
-![snake animation](https://github.com/<seu PuguhDy>/<seu PuguhDy>/blob/output/github-contribution-grid-snake2.svg)
