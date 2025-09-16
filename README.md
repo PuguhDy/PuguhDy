@@ -1,8 +1,5 @@
   # Hai, Saya dengan Puguh Dwiyanto
 ## Tentang Saya:
-- Jenis Kelamin         : Laki-laki
-- Agama                 : Islam
-- Email                 : puguh130@gmail.com
 
 ## Pendidikan:
 
