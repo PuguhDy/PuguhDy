@@ -60,5 +60,5 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/mr_pdy#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/mr_pdy#gh-dark-mode-only)
 
-
 [webdev]: https://github.com/PuguhDy/Puguh-Dy
+![snake animation](https://github.com/<seu PuguhDy>/<seu PuguhDy>/blob/output/github-contribution-grid-snake2.svg)
