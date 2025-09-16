@@ -22,6 +22,7 @@
 
 ## Pengalaman Kerja:
 #### - [PT. Cyberindo Aditama](https://cbn.id/) | Service Delivery | Jakarta Selatan `Sep'2019 - Now`
+#### - [PT. Hipernet Indodata](https://www.hypernet.co.id/) | Technical Account Manager | Semarang `April'2025 - Now`
 ## Pengalaman Organisasi 
 - ROHIS (Rohani Islam) sebagai ketua divisi dekorasi dan dokumentasi di SMA Negeri 1 Sumpiuh
 - HMJTI (Himpunan Mahasiswa Jurusan Teknik Informatika) di Amikom Yogyakarta
