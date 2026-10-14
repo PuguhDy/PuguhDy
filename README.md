@@ -1,64 +1,122 @@
-  # Hai, Saya dengan Puguh Dwiyanto
-## Tentang Saya:
+# Hi there, I'm Puguh Dwiyanto 👋
 
-## Pendidikan:
+[![Website](https://img.shields.io/badge/Website-puguh.cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://puguh.cloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Puguh%20Dwiyanto-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/puguh-dwiyanto-402aa1119/)
+[![Instagram](https://img.shields.io/badge/Instagram-@mr__pdy-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/mr_pdy)
 
- 1. [SD N Gumelar Lor](https://referensi.data.kemdikbud.go.id/residu/satuanpendidikan/detail/20302076) | Gumelar Lor `2003-2009`
- 2. [SMP N 1 Sumpiuh](https://sekolahloka.com/data/smp-negeri-1-sumpiuh/) | Sumpiuh `2009-2012`
- 3. [SMA N 1 Sumpiuh](https://www.sman1sumpiuh.sch.id) | IPA | Sumpiuh `2012-2015`
- 4. [Universitas Amikom Yogyakarta](https://home.amikom.ac.id) | S1 Informatika | Yogyakarta `2015-2019`
+> **Technical Account Manager** | **Network & Security Enthusiast** | **Linux Explorer**
 
-## Kursus dan Workshop
-- [CCNA Routing and Switching : Introduction to Networks](https://home.amikom.ac.id/) | AMIKOM Yogyakarta | `2017`
-- [CCNA Routing and Switching : Routing and Switching Essentials](https://home.amikom.ac.id/) | AMIKOM Yogyakarta | `2017`
-- [MTCNA (Mikrotik Certified Network Associate)](https://home.amikom.ac.id/) | AMIKOM Yogyakarta| `2018`
-- [CCNA Security](https://lldikti5.kemdikbud.go.id/home/detailpost/program-digital-talent-scholarship-2019) | Digital talent KOMINFO | `2019`
-- [CCNA Cybersecurity Operations](https://lldikti5.kemdikbud.go.id/home/detailpost/program-digital-talent-scholarship-2019) | Digital talent KOMINFO | `2019`
-- [MTCRE (MikroTik Certified Routing Engineer)](https://mikrotik.com/training/certificates/c237664c4f0563a36ce7) | IDN Network | `2022`
-- [Webinar Ethical Network Hacking & Security](https://xcode.or.id/blog/index.php/2024/01/29/webinar-x-code-web-server-security-hardening-v2-hari-sabtu-3-februari-2024-pukul-0900-wib-pagi) | XCODE | `10 Februari 2024`
-- [Webinar Reverse proxy dan Proxmox untuk membangun layanan VPS](https://xcode.or.id/blog/index.php/2024/02/03/webinar-x-code-ethical-network-hacking-security-senin-10-februari-2024-pukul-0900-wib-pagi-zoom/) | XCODE | `18 Februari 2024`
-- [Webinar Ethical Windows Hacking & Post Exploitation](https://xcode.or.id/blog/index.php/2024/03/30/webinar-x-code-ethical-windows-hacking-exploitation-jumat-5-april-2024-pukul-1400-wib-zoom/) | XCODE | `5 April 2024`
-- [Webinar Web Server & Security Hardening v2](https://xcode.or.id/blog/index.php/2024/01/29/webinar-x-code-web-server-security-hardening-v2-hari-sabtu-3-februari-2024-pukul-0900-wib-pagi/) | XCODE | `3 Februari 2024`
+---
 
-## Pengalaman Kerja:
-#### - [PT. Cyberindo Aditama](https://cbn.id/) | Service Delivery | Jakarta Selatan `Sep'2019 - Now`
-#### - [PT. Hipernet Indodata](https://www.hypernet.co.id/) | Technical Account Manager | Semarang `April'2025 - Now`
-## Pengalaman Organisasi 
-- ROHIS (Rohani Islam) sebagai ketua divisi dekorasi dan dokumentasi di SMA Negeri 1 Sumpiuh
-- HMJTI (Himpunan Mahasiswa Jurusan Teknik Informatika) di Amikom Yogyakarta
---
-### Kemampuan dan Ketrampilan
- - Dapat menggunakan Microsoft Office dengan baik
- - Memahami Networking (WAN, LAN, OSI Layer, Switch, Router, Firewall, WLAN)
- - Memahami Basic Linux Pentesting 
- - Dapat mengkonfigurasi server nagios
- - Memahami Basic Pemrograman
- - Mampu mempelajari hal baru dengan cepat
- - Menyukai Oprek Motor
- - Menyukai Belajar linux dengan otodidak
- - Dapat beradaptasi dengan baik
- - Menguasai Photosop
- - Menyukai Olahraga
+### 👨‍💻 About Me
+Passionate about Computer Networking, Infrastructure Security, and Systems Administration. Constantly exploring new technologies, Linux environments, and hands-on hardware tinkering.
 
-### Languages and Tools:
+- 🌐 Personal Cloud / Portfolio: **[puguh.cloud](https://puguh.cloud)**
+- 🔭 Currently working as **Technical Account Manager** at **PT. Hipernet Indodata**
+- 💼 Former **Enterprise Network Engineer** at **PT. Cyberindo Aditama (CBN)**
+- 🎓 Bachelor of Computer Science (S.Kom) from **AMIKOM Yogyakarta**
+- ⚡ Fun Fact: Enthusiastic about Linux self-learning & motorcycling.
 
-[<img align="left" alt="Photosop" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/photoshop/photoshop-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://download.logo.wine/logo/Microsoft_Office/Microsoft_Office-Logo.wine.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Debian" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/debian/debian-plain-wordmark.svg" style="padding-right:0px;" />][webdev]
+---
 
-<br />
-<br />
+### 💼 Professional Experience
 
-### Connect with me:
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/puguh-dy-402aa1119/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/puguh-dy-402aa1119/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/mr_pdy#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/mr_pdy#gh-dark-mode-only)
+#### 🔹 PT Hipernet Indodata — *Technical Account Manager*
+`April 2025 - Present` | Semarang, Central Java
 
-[webdev]: https://github.com/PuguhDy/Puguh-Dy
+<details>
+<summary>🔍 <b>View key responsibilities & technical achievements</b></summary>
+
+- **Managed Services & Multivendor Operations:** Configured, deployed, and managed multi-vendor network environments for enterprise clients using Fortinet, Sophos, MikroTik, H3C, Huawei eKit, Ruijie, and UniFi.
+- **Advanced Traffic Engineering:** Implemented advanced MikroTik configurations, including intricate Mangle rules, bandwidth shaping per user, hotspot gateway structures, and Policy-Based Routing (PBR) for high availability.
+- **Infrastructure Monitoring & VIP Reporting:** Maintained proactive network visibility using PRTG & Zabbix. Analyzed network health, resolved bottlenecks, and compiled performance reports for priority clients.
+- **Technical Documentation & Audit:** Spearheaded network documentation, including topologies, service changes, device configurations, and on-premise virtualization using Proxmox VE.
+- **Client-Facing Resolution & TAM:** Served as a dedicated technical bridge for corporate accounts, managing escalations, conducting on-site visits, and ensuring strict SLA compliance.
+
+</details>
+
+<br>
+
+#### 🔹 PT Cyberindo Aditama (CBN) — *Enterprise & Corporate Support*
+`September 2019 - April 2025` | Jakarta & Remote
+
+<details>
+<summary>🔍 <b>View career progression & technical roles at CBN</b></summary>
+
+##### 🔸 Enterprise Network Engineer `(Aug 2021 – Apr 2025)`
+- **24/7 Mission-Critical Monitoring:** Ensured absolute stability, high availability, and security of Tier-1 Corporate ISP infrastructure within a 24/7 rotational shift environment.
+- **Network Support & Triaging:** Managed large-scale visibility using Nagios & Zabbix to detect link degradations, monitor BGP peering status, and analyze routing tables.
+- **Incident Management & Field Coordination:** Primary contact for complex corporate connectivity incidents, systematically resolving high-priority tickets to minimize MTTR.
+- **Tailored Network Configuration:** Fine-tuned L2/L3 core network devices to deliver customized infrastructure solutions for enterprise customers.
+
+##### 🔸 Corporate Support Officer `(Dec 2020 – Jul 2021)`
+- **L2/L3 Technical Troubleshooting:** Performed deep-dive troubleshooting on Layer 2 MAC Address and Layer 3 Gateway configurations.
+- **CPE & Device Administration:** Configured and administered Customer Premises Equipment (CPE) using MikroTik, Cisco, and Juniper.
+- **Omnichannel Support:** Managed technical escalations swiftly across phone, email, and WhatsApp Groups.
+
+##### 🔸 Corporate Support Engineer `(Sep 2019 – Nov 2020)`
+- **Dedicated ISP Deployment:** Executed on-site installation, activation, and provisioning of Dedicated Internet, SOHO Services, Local Loops, and IP Transit architectures.
+- **Cross-Layer Coordination:** Collaborated with core NOC teams to streamline provisioning across Layer 2 and Layer 3 network domains.
+
+</details>
+
+---
+
+### 🧰 Skills, Tools & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MikroTik-DA291C?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+---
+
+### 📜 Certifications, Courses & Workshops
+
+- 🎓 **[MTCRE (MikroTik Certified Routing Engineer)](https://mikrotik.com/training/certificates/c237664c4f0563a36ce7)** — IDN Network `(2022)`
+- 🎓 **[MTCNA (MikroTik Certified Network Associate)](https://home.amikom.ac.id/)** — AMIKOM Yogyakarta `(2018)`
+- 🛡️ **[CCNA Security](https://lldikti5.kemdikbud.go.id/home/detailpost/program-digital-talent-scholarship-2019)** — Digital Talent KOMINFO `(2019)`
+- 🛡️ **[CCNA Cybersecurity Operations](https://lldikti5.kemdikbud.go.id/home/detailpost/program-digital-talent-scholarship-2019)** — Digital Talent KOMINFO `(2019)`
+- 🌐 **[CCNA Routing & Switching: Introduction to Networks](https://home.amikom.ac.id/)** — AMIKOM Yogyakarta `(2017)`
+- 🌐 **[CCNA Routing & Switching: Essentials](https://home.amikom.ac.id/)** — AMIKOM Yogyakarta `(2017)`
+
+<details>
+<summary><b>💻 Click to view Webinars & Hands-on Workshops (XCODE)</b></summary>
+
+- 🚀 **[Webinar Ethical Windows Hacking & Post Exploitation](https://xcode.or.id/blog/index.php/2024/03/30/webinar-x-code-ethical-windows-hacking-exploitation-jumat-5-april-2024-pukul-1400-wib-zoom/)** — XCODE `(5 April 2024)`
+- 🚀 **[Webinar Reverse Proxy & Proxmox untuk Membangun Layanan VPS](https://xcode.or.id/blog/index.php/2024/02/03/webinar-x-code-ethical-network-hacking-security-senin-10-februari-2024-pukul-0900-wib-pagi-zoom/)** — XCODE `(18 Februari 2024)`
+- 🚀 **[Webinar Ethical Network Hacking & Security](https://xcode.or.id/blog/index.php/2024/01/29/webinar-x-code-web-server-security-hardening-v2-hari-sabtu-3-februari-2024-pukul-0900-wib-pagi)** — XCODE `(10 Februari 2024)`
+- 🚀 **[Webinar Web Server & Security Hardening v2](https://xcode.or.id/blog/index.php/2024/01/29/webinar-x-code-web-server-security-hardening-v2-hari-sabtu-3-februari-2024-pukul-0900-wib-pagi/)** — XCODE `(3 Februari 2024)`
+
+</details>
+
+---
+
+### 🎓 Education
+
+- **S1 Informatika** — [Universitas Amikom Yogyakarta](https://home.amikom.ac.id) `(2015 - 2019)`
+- **SMA N 1 Sumpiuh** — [SMA N 1 Sumpiuh](https://www.sman1sumpiuh.sch.id) `(2012 - 2015)`
+
+---
+
+### 🎮 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PuguhDy/PuguhDy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PuguhDy/PuguhDy/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PuguhDy/PuguhDy/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my GitHub profile! Feel free to visit <a href="https://puguh.cloud">puguh.cloud</a> or connect via <a href="https://www.linkedin.com/in/puguh-dwiyanto-402aa1119/">LinkedIn</a> & <a href="https://www.instagram.com/mr_pdy">Instagram</a>.</i>
+</p>
 
 # Snake
 
@@ -68,7 +126,7 @@
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
-Generates a snake game from a github user contributions graph
+<!--Generates a snake game from a github user contributions graph -->
 
 <picture>
   <source
